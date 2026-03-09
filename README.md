@@ -7,7 +7,7 @@ I enjoy building reliable software systems and working on projects related to re
   
 - 🌱 I’m currently learning about Artificial Intelligence fundamentals and Machine Learning concepts.
 
-- 📫 Contact
+### 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eyaamrach) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eya.amrach@gmail.com) 
 
 ## 🛠️ Technical Skills
