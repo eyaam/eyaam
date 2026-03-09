@@ -4,14 +4,16 @@ I enjoy building reliable software systems and working on projects related to re
 - 🎓 Computer Engineering Graduate
 
 - ✈️ Passionate about aerospace software, embedded systems, and flight testing
-- 
+  
 - 🌱 I’m currently learning about Artificial Intelligence fundamentals and Machine Learning concepts.
 
   
 ## 🛠️ Technical Skills
 
+### 💻 Programming Languages
+
 <details>
-<summary>💻 Programming Languages</summary>
+<summary>Primary languages used in embedded systems, scientific computing, and web development.</summary>
 
 - **C** – embedded systems programming, low-level development, memory management  
 - **C++** – object-oriented programming, high-performance applications  
@@ -23,8 +25,6 @@ I enjoy building reliable software systems and working on projects related to re
 - **HTML / CSS** – web interface structure and styling  
 
 </details>
-
-### 💻 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
