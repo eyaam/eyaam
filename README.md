@@ -1,9 +1,9 @@
 ## Hi there, I’m Eya ✨
 I enjoy building reliable software systems and working on projects related to real-time systems, embedded development, and data analysis for aerospace applications.
 
-- 🎓 Computer Engineering Graduate
+- 🎓 Software Engineer specializing in Embedded Systems
 
-- ✈️ Passionate about aerospace software, embedded systems, and flight testing
+- ✈️ Passionate about aerospace, automotive, and railway technologies 
   
 - 🌱 I’m currently learning about Artificial Intelligence fundamentals and Machine Learning concepts.
 
