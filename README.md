@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I’m Eya ✨
+🎓 Digital Engineering Graduate
 
 <!--
 **eyaam/eyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![C](https://img.shields.io/badge/C-Programming-blue)
+![Ada](https://img.shields.io/badge/Ada-Programming-green)
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+
+## 📫 Contact
+
+💼 LinkedIn: https://www.linkedin.com/in/eyaamrach/
