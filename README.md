@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 
 ## 🛠️ Technical Skills
-### 💻 Programming Languages
+
 <details>
-<summary>C • C++ • Ada • Python • Java • Kotlin • HTML • CSS • JavaScript</summary>
+<summary> 💻 Programming Languages </summary>
   
 - **C** – embedded systems programming, low-level development, memory management  
 - **C++** – object-oriented programming, high-performance applications  
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - **Java / Kotlin** – Android application development  
 - **HTML / CSS** – web interface structure and styling  
 - **JavaScript** – interactive web applications and front-end development
-- 
+
 </details>
 
 ![C](https://img.shields.io/badge/C-blue)
