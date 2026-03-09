@@ -1,25 +1,13 @@
 ## Hi there, I’m Eya ✨
-🎓 Digital Engineering Graduate
-✈️ Passionate about aerospace software, embedded systems, and flight testing
+-🎓 Computer Engineering Graduate
 
+-✈️ Passionate about aerospace software, embedded systems, and flight testing
 I enjoy building reliable software systems and working on projects related to real-time systems, embedded development, and data analysis for aerospace applications.
-<!--
-**eyaam/eyaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about Artificial Intelligence fundamentals and Machine Learning concepts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+  
 ## 🛠️ Technical Skills
-
 <details>
 <summary> 💻 Programming Languages </summary>
   
@@ -44,5 +32,4 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
 ## 📫 Contact
-
 💼 LinkedIn: https://www.linkedin.com/in/eyaamrach/
