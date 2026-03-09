@@ -15,7 +15,8 @@ I enjoy building reliable software systems and working on projects related to re
 - **C** – embedded systems programming, low-level development, memory management  
 - **C++** – object-oriented programming, high-performance applications  
 - **Ada** – development of reliable and safety-critical software  
-- **Python** – scripting, automation, and data analysis  
+- **Python** – scripting, automation, and data analysis
+- **MATLAB** – numerical computing, data analysis, and system modeling 
 - **Java / Kotlin** – Android application development  
 - **HTML / CSS** – web interface structure and styling  
 - **JavaScript** – interactive web applications and front-end development
@@ -26,6 +27,7 @@ I enjoy building reliable software systems and working on projects related to re
 ![C++](https://img.shields.io/badge/C++-blue)
 ![Ada](https://img.shields.io/badge/Ada-green)
 ![Python](https://img.shields.io/badge/Python-yellow)
+![MATLAB](https://img.shields.io/badge/MATLAB-pink)
 ![Java](https://img.shields.io/badge/Java-red)
 ![Kotlin](https://img.shields.io/badge/Kotlin-purple)
 ![HTML](https://img.shields.io/badge/HTML-orange)
